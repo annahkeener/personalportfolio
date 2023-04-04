@@ -1,0 +1,135 @@
+
+  
+Link {
+  color: aqua;
+}
+  h1, h2 {
+    font-family: 'Verdana', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 3.25rem;
+    line-height: 2.5rem;
+    margin-left: px;
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+    background-color: #bddaea;
+    height: 50px;
+  }
+
+  h2 {
+    font-weight: 50;
+    font-size: medium;
+    color: #3b5060;
+    margin-top: -520px;
+    margin-left: 400px;
+    margin-right: 150px;
+    text-align: center;
+    top: 0px;
+    left: 100px;
+    overflow: visible;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: x-large;
+    color: #3b5060;
+  }
+
+  nav {
+    background-color: #6c8796;
+    text-align: center;
+    margin-left: -50px;
+    height: 75px;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+    
+  }
+  
+  .content {
+    background-color: #fff;
+    position: relative;
+  }
+
+  .boxes {
+    background-color: #fff;
+    position: relative;
+  }
+
+  .blueContainer {
+    background-color: #cce2ee;
+    padding: 10px;
+    height: 70px;
+    width: 100vw;
+    margin-right: 1000px;
+    margin-top: 110px;
+    margin-left: -10px;
+    position: absolute;
+    z-index: 0;
+  }
+
+  .whiteBox {
+    padding: 5px;
+    background-color: white;
+    margin-left: 2px;
+  }
+  
+  .verticalBox {
+    height: 100vh;
+    width: 100px;
+    margin-top: -15px;
+    margin-left: 25px;
+    background-color: #8fb8d3;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 5px;
+
+  }
+
+  img {
+    margin-top: 200px;
+    margin-left: 50px;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #7e8f98;
+    border-width: 5px;
+    object-position: 10% 70%; 
+    position: relative;
+  }
+
+  .p1 {
+    position: absolute;
+    width: 100vw;
+    height: 400px;
+    left: 500px;
+    background-color: aqua;
+  }
+
+
+  .activeLink {
+    color: white;
+    text-decoration: none; 
+    padding: 25px;
+    position: relative;
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  ul {
+    margin-top: 30px;
+    position: relative;
+    margin-right: -90px;
+    width: 100vw;
+  }
+
+
